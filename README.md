@@ -66,4 +66,5 @@ unit testing is  to make sure individual methods work in isolation without exter
 testing all requests using postman:
 [![test-postman.png](https://i.postimg.cc/fW9MqxKy/test-postman.png)](https://postimg.cc/grG9nL1b)
 
+TDD(test driven development) was used for testing: write a test before writing enough production code to make the failting test pass. write a failing test->write code to make it pass -> Refactor
 
